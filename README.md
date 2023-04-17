@@ -1,6 +1,7 @@
 # Paulo Vitor Guedes :octocat:
 
 - :computer: Desenvolvedor Web com foco em PHP e Javascript.
+- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente trabalhando em projetos Javascript.
 - 📫 Contate-me no e-mail: vitor_cguedes@outlook.com
 - :coffee: Apaixonado pelo mundo dos códigos
@@ -14,9 +15,9 @@
   </a>
   
   <a href="mailto:vitor_cguedes@outlook.com">
-	<img src="https://img.shields.io/badge/-Outlook-%ff8c00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+	<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  
+	
   <a href="https://discordapp.com/users/PauloVitorGuedes#0607" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a> 
@@ -39,7 +40,7 @@
 
  ##
 
-**Especialiade:**
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
