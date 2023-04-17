@@ -1,1 +1,54 @@
+# Paulo Vitor Guedes :octocat:
 
+- :computer: Desenvolvedor Web com foco em PHP e Javascript.
+- 🌱 Atualmente trabalhando em projetos Javascript.
+- 📫 Contate-me no e-mail: vitor_cguedes@outlook.com
+- :coffee: Apaixonado pelo mundo dos códigos
+
+“Não é a linguagem de programação que define o programador, mas sim sua lógica.”
+  
+ 
+ <div> 
+  <a href="https://www.linkedin.com/in/paulo-vitor-guedes/" target="_blank">
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="mailto:vitor_cguedes@outlook.com">
+	<img src="https://img.shields.io/badge/-Outlook-%ff8c00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://discordapp.com/users/PauloVitorGuedes#0607" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a> 
+  
+  <a href="https://api.whatsapp.com/send?phone=5521981513149" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  
+  
+</div>
+
+##
+
+<div>
+  <a href="https://github.com/paulovitorguedes">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=paulovitorguedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovitorguedes&layout=compact&langs_count=12&theme=dark"/>
+</div>
+
+ ##
+
+**Especialiade:**
+  
+  **Especialiade:**
+
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/SASS-E34F26?style=for-the-badge&logo=SASS&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white)
+![image](https://img.shields.io/badge/MySql-1572B6?style=for-the-badge&logo=Mysql&logoColor=black)
+![image](https://img.shields.io/badge/AJAX-1572B6?style=for-the-badge&logo=AJAX&logoColor=white)
+![image](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=JQuery&logoColor=black)
