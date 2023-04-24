@@ -22,7 +22,8 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a> 
   
-  <a href="https://api.whatsapp.com/send?phone=5521981513149" target="_blank" rel="noreferrer">
+  <!--<a href="https://api.whatsapp.com/send?phone=5521981513149" target="_blank" rel="noreferrer"> -->
+  <a href="https://wa.me/5521981513149" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
