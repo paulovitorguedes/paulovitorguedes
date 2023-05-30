@@ -1,6 +1,6 @@
 # Paulo Vitor Guedes :octocat:
 
-- :computer: Desenvolvedor Web com foco em PHP e Javascript.
+- :computer: Desenvolvedor Web com foco em Front-End.
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente trabalhando em projetos Javascript.
 - 📫 Contate-me no e-mail: vitor_cguedes@outlook.com
