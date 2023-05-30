@@ -3,7 +3,7 @@
 - :computer: Desenvolvedor Web com foco em Front-End.
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente trabalhando em projetos Javascript.
-- 📫 Contate-me no e-mail: vitor_cguedes@outlook.com
+- 📫 Contate me no e-mail: vitor_cguedes@outlook.com
 - :coffee: Apaixonado pelo mundo dos códigos
 
 “Não é a linguagem de programação que define o programador, mas sim sua lógica em resolver problemas”
