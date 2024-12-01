@@ -1,6 +1,6 @@
 # Paulo Vitor Guedes :octocat:
 
-- :computer: Desenvolvedor Web.
+- :computer: Desenvolvedor Back-End.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente trabalhando em projetos C# em .NET.
 - 📫 Contate me no e-mail: vitor_cguedes@outlook.com
