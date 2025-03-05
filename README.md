@@ -5,8 +5,6 @@
 - 🌱 Atualmente trabalhando em projetos C# em .NET.
 - 📫 Contate me no e-mail: vitor_cguedes@outlook.com
 - :coffee: Apaixonado pelo mundo dos códigos
-
-“Não é a linguagem de programação que define o programador, mas sim sua lógica em resolver problemas”
   
  
  <div> 
